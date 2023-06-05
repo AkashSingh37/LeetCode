@@ -1,3 +1,4 @@
+//Checking for a number whether it's palindrome or not
 class Solution {
     public boolean isPalindrome(int x) {
         String str = String.valueOf(x);
